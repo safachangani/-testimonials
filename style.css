@@ -303,7 +303,7 @@ margin-top: 6%;
  }
 @media(max-width:600px){
     html{
-    height: 330%;
+    height: 340%;
     }
     .section-first{
     width: 89vw;
@@ -397,7 +397,7 @@ margin-top: 6%;
     .section-fourth{
         width: 89vw;
         height: 38vh;
-        margin-top: 243%;
+        margin-top: 245%;
         margin-left: 4%;
         position: absolute;
     }
@@ -427,13 +427,13 @@ margin-top: 6%;
 }
 .picture-five {  
         width: 10%;
-        height: 9%;
+        height: 7%;
         margin-left: 8%;
         margin-top: 7%;
 }
 .picture-four {
     width: 11%;
-    height: 14%;
+    height: 13%;
     margin-left: 8%;
     margin-top: 7%;
 }
