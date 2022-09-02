@@ -294,7 +294,7 @@ margin-top: 4%;
     .container{
         display: grid;
         grid-template-columns:88vw;
-        grid-template-rows: repeat(8,34vh);
+        grid-template-rows: repeat(8,40vh);
         grid-row-gap: 1%;
     }
     .section-first{
